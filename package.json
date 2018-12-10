@@ -1,0 +1,24 @@
+{
+  "name": "clarity_practice",
+  "version": "0.1.0",
+  "description": "this is a practice repo w/ Katie Sylor-Taylor at Clarity Conf 2018!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatecture/clarity_practice.git"
+  },
+  "author": "ana monroe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anatecture/clarity_practice/issues"
+  },
+  "homepage": "https://github.com/anatecture/clarity_practice#readme",
+  "keywords": [
+    "git",
+    "practice",
+    "clarity"
+  ]
+}
